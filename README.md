@@ -1,1 +1,3 @@
-# otros
+# TENDENCIAS TECNOLÓGICAS
+
+*Exposicion cada semana
