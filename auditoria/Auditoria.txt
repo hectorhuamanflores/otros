@@ -1,0 +1,31 @@
+B:1)c2)b3)b4*)5)c6)c7)c8)c9*)c10)a
+1.-Funciones del control interno son:
+-controlar todas las actividades que se realizan cumpliendo los procedimientos y normas fijados,
+evaluar su bondad y asegurarse del cumplimiento de las normas legales.
+-asesorar sobre el conocimiento de las normas.
+-Colaborar y apoyar el trabajo de auditoria informatica.
+-Definir, implantar y ejecutar mecanismos y controles para comprobar el logro de los grados adecuados del sevicio.
+2.-Detallar el trabajo preliminar del auditor.
+En esta fase se establecen las relaciones entre auditores y la  entidad, para determinar alcance y objetivos.
+Se hace un bosquejo de la situación de la entidad, acerca de su organización, sistema contable, controles internos, estrategias y
+demás elementos que le permitan al auditor elaborar el programa de auditoria que se llevará a efecto.
+ Elementos Principales de esta Fase
+a. Conocimiento y Comprensión de la Entidad
+b. Objetivos y Alcance de la auditoria
+3.-
+4.-componentes control interno (coso)
+a) Ambiente de Control. .- Es la personalidad de la organizacion-Estimula y promueve el compromiso de control de su personal-Genera orden y diciplina
+-Incluye la integrudad, valores eticos,capacidad y competencia de su personalidad - Estructura organizacional.
+b) Evaluación de Riesgos.Es la identificación y análisis de riesgos relevantes para el logro de los objetivos y la base para determinar la forma en que
+tales riesgos deben ser mejorados. Así mismo, se refiere a los mecanismo necesarios para identificar y manejar riesgos específicos asociados con los cambios,
+tanto los que influyen en el entrono de la organización como en su interior.
+c) Actividades de Control. Son aquellas que realiza la gerencia y demás personal de la organización para cumplir diariamente con las actividades asignadas.
+Estas actividades están expresadas en las políticas, sistemas y procedimientos.
+d) Información y Comunicación. Están diseminados en todo el ente y todos ellos atienden a uno o más objetivos e control. De manera amplia, se considera
+que existen controles generales y controles de aplicación sobre los sistemas de información.
+e) Supervisión y Seguimiento. La organizacion selecciona. desarrolla, y realiza evluaciones continuas y/o separadas para comprobar cuando los componentes de control
+interno estan presentes y funcionando.
+5.-ejemplos de controles correctivos
+funcion: minimizar el impacto de una amenaza ejemplo: Planificacion de contingencia.
+funcion: remediar problemas descubiertos por los controles de deteccion ejemplo: procedimiento de copias deseguridad.
+funcion: apellido no correcponde, el regustro corresponde a otra partida.suma incorrecta.
