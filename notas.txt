@@ -1,0 +1,48 @@
+bi en pymes
+Sistema predictivo - experto para pymes usando Business Intelligence
+
+BD:
+datos del emprendedor:
+-edad
+-rucro
+-lugar
+
+¿Edad promedio del emprededor activo?
+Las tendencias del mercado
+Que rucro tiene mayor demanda
+distritos con mayor emprendimiento
+tendenciad de distritos al cambio
+
+
+*Problema:
+- No hay una verdadera estrategia de mercado para ayudar a las pymes
+
+SpagoBI
+SQLSERVER tiene su propia herramienta de BI
+
+*************************************************************************
+
+Sistema experto para agencia de banco usando metodologia A*
+
+Actualemte la predicion de agencias de bancos mediante la web o movil usan por defecto el 
+Algoritmo de Dijkstra(algoritmo de caminos mínimos) como base, para sugerir que agencia acercace
+
+algoritmo A*
+ f(n)=g(n)+h(n)    h(n) es un valor heuristico del nodo a evaluar
+
+G(n) = C    
+C:  camino 1 (corto)     = 2
+    camino 2 (mediano)   = 6
+    camino 3 (largo)     = 10
+
+h(n) = E 
+E:  Trafico trasporte    = 0-10    
+    Horario de atencion  = 0-10
+    Foro de agencia      = 0-10
+    Cierre de agencia    = 0-10
+
+peor caso: 10 puntos
+
+conclusion: daremos mejores alternativas al cliente
+
+
