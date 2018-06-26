@@ -7,7 +7,7 @@ datos del emprendedor:
 -rucro
 -lugar
 
-¿Edad promedio del emprededor activo?
+Â¿Edad promedio del emprededor activo?
 Las tendencias del mercado
 Que rucro tiene mayor demanda
 distritos con mayor emprendimiento
@@ -25,7 +25,7 @@ SQLSERVER tiene su propia herramienta de BI
 Sistema experto para agencia de banco usando metodologia A*
 
 Actualemte la predicion de agencias de bancos mediante la web o movil usan por defecto el 
-Algoritmo de Dijkstra(algoritmo de caminos mínimos) como base, para sugerir que agencia acercace
+Algoritmo de Dijkstra(algoritmo de caminos mÃ­nimos) como base, para sugerir que agencia acercace
 
 algoritmo A*
  f(n)=g(n)+h(n)    h(n) es un valor heuristico del nodo a evaluar
@@ -44,5 +44,9 @@ E:  Trafico trasporte    = 0-10
 peor caso: 10 puntos
 
 conclusion: daremos mejores alternativas al cliente
+
+
+extra:
+http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html#associations-many-to-many-bidirectional
 
 
