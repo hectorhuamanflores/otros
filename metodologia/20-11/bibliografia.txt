@@ -1,0 +1,11 @@
+Localización geográfica (Geolocalización)
+http://help.opera.com/Windows/11.50/es-ES/geolocation.html
+Coordenadas Geograficas en Google Maps
+https://www.coordenadas-gps.com/
+potencial de la banca movil en Perú
+https://www.google.com.pe/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiCkY_pxs7XAhUBMd8KHUhMBzgQFgglMAA&url=https%3A%2F%2Fwww.bbvaresearch.com%2Fwp-content%2Fuploads%2F2014%2F07%2FWP_1324.pdf&usg=AOvVaw11hVpuPzQxhmn2VRN-M4xv
+¿Google Maps usa el algoritmo de Dijkstra? Si es así, ¿puedes explicar cómo discretizan el mundo?
+Does Google Maps use Dijkstra's algorithm? If so, can you explain how they discretize the world?
+https://www.quora.com/Does-Google-Maps-use-Dijkstras-algorithm-If-so-can-you-explain-how-they-discretize-the-world
+traducido
+http://bit.ly/2AdR0Pp
